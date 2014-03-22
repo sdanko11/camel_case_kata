@@ -6,4 +6,4 @@ returns "theStealthWarrior"
 
 to_camel_case("The_Stealth_Warrior")
 
-# returns "TheStealthWarrior"
+returns "TheStealthWarrior"
